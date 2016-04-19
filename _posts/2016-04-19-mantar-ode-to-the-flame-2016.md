@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Mantar - Ode to the Flame (2016)
-datePublished: '2016-04-19T19:22:42.800Z'
-dateModified: '2016-04-19T19:19:46.805Z'
+datePublished: '2016-04-19T19:26:53.530Z'
+dateModified: '2016-04-19T19:24:45.015Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-19-mantar-ode-to-the-flame-2016.md
@@ -35,4 +35,4 @@ __
 
 _This is ERA BOREALIS...This is DEATH ÜBER ALLES..._
 
-Someone, sometime said that simplicity is the higher form of sophistication...well this record sets so many new standards that I am sure that in a few months we will quote that simplicity is the new hype in Black
+_Someone, somewhere, sometime said that simplicity is the higher form of sophistication...well, this record sets so many new standards in Black/Doom/Sludge Metal that I am sure that in a few months we will quote that simplicity is the new hype..._
