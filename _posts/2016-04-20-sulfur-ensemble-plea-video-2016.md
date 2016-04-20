@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Sülfür Ensemble - Plea (Video 2016)
-datePublished: '2016-04-20T18:39:50.094Z'
-dateModified: '2016-04-20T18:39:28.503Z'
+datePublished: '2016-04-20T18:49:38.564Z'
+dateModified: '2016-04-20T18:46:50.001Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-sulfur-ensemble-plea-video-2016.md
@@ -27,4 +27,4 @@ _type: Article
 _Doom'n'Roll from the cursed land..._
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0e5bfe6-a69d-4456-ad9b-7b24e4725267.jpg)
 
-https://youtu.be/mYQbrsfPtkg
+<iframe width="640" height="360" src="https://www.youtube.com/embed/mYQbrsfPtkg" frameborder="0" allowfullscreen="" style=""></iframe>
