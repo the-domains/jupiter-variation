@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: None Other - Than the Common Plague (2016)
-datePublished: '2016-04-19T18:53:26.367Z'
-dateModified: '2016-04-19T18:53:23.963Z'
+datePublished: '2016-04-21T19:13:56.295Z'
+dateModified: '2016-04-19T19:35:15.240Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-19-none-other-than-the-common-plague-2016.md
@@ -27,6 +27,6 @@ _type: Article
 
 _Lie to me...I can't hear a thing when you talk tome..._
 
-_The fight against THE disease (...none other than the common plague...),the fear, the doubts, the agony and physical pain, the sentiments of disappointment and resignation, the existential questions, the final hopeful outcome delivered as a dialogue between the main hero and himself in this excellent prog sound trip..._
+_The fight against THE disease (...none other than the common plague...), the fear, the doubts, the agony and physical pain, the sentiments of disappointment and resignation, the existential questions, the final hopeful outcome delivered as a dialogue between the main hero and himself in this excellent prog sound trip..._
 
 __
