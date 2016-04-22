@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-22T18:33:31.151Z'
-dateModified: '2016-04-22T18:31:02.436Z'
+datePublished: '2016-04-22T18:36:20.097Z'
+dateModified: '2016-04-22T18:36:12.970Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-chelsea-wolfe-hypnosflame-2016.md
@@ -30,6 +30,8 @@ _****_
 _****_
 
 _****_
+
+_...According to Greek Mythology, Hypnos (Sleep) is the twin brother of Thanatos (Death)..._
 
 _I will put this 7 inch aside...and I will play it again next autumn...when the light and warmth of spring would have fade away... and the songs will unveil their cold and dark beauty in all its glory..._
 
