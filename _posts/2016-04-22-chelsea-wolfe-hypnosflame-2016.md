@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Chelsea Wolfe - Hypnos/Flame (2016)
-datePublished: '2016-04-22T18:24:10.823Z'
-dateModified: '2016-04-22T18:21:21.101Z'
+datePublished: '2016-04-22T18:27:50.928Z'
+dateModified: '2016-04-22T18:25:18.169Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-chelsea-wolfe-hypnosflame-2016.md
@@ -22,8 +22,9 @@ url: chelsea-wolfe-hypnosflame-2016/index.html
 _type: Article
 
 ---
-**_Chelsea Wolfe - Hypnos/Flame (2016)_**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4507fa88-20d9-4248-b848-0f6da58b2795.jpg)
+
+**_Chelsea Wolfe - Hypnos/Flame (2016)_**
 
 _****_
 
