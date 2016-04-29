@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Morrow - Covenant Of Teeth (2016)
-datePublished: '2016-04-29T20:34:50.540Z'
-dateModified: '2016-04-29T20:34:41.826Z'
+datePublished: '2016-04-29T20:38:17.473Z'
+dateModified: '2016-04-29T20:36:40.287Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-29-morrow-covenant-of-teeth-2016.md
