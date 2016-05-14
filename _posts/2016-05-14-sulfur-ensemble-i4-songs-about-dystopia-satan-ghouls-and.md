@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Sülfür Ensemble - I(4 Songs About Dystopia, Satan, Ghouls & Marilyn Monroe) 2016'
-datePublished: '2016-05-14T21:54:48.774Z'
-dateModified: '2016-05-14T21:54:39.363Z'
+datePublished: '2016-05-14T22:00:05.766Z'
+dateModified: '2016-05-14T21:58:34.971Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-14-sulfur-ensemble-i4-songs-about-dystopia-satan-ghouls-and.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-14-sulfur-ensemble-i4-songs-about-dystopia-satan-ghouls-and.md
 url: sulfur-ensemble-i4-songs-about-dystopia-satan-ghouls-and/index.html
 _type: Article
 
@@ -36,8 +36,6 @@ _type: Article
 
 Overall, **I** is a promising release which sets the standards high and "prepares" our appetite for a full album.
 
-<iframe src="http://bandcamp.com/EmbeddedPlayer/album=1998382992/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" style=""></iframe>
-
 http://sulfurensemble.bandcamp.com/
 
 https://soundcloud.com/sulfurensemble/
@@ -45,3 +43,5 @@ https://soundcloud.com/sulfurensemble/
 https://www.facebook.com/sulfurensemble
 
 https://twitter.com/sulfurensemble
+
+<iframe src="http://bandcamp.com/EmbeddedPlayer/album=1998382992/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" style=""></iframe>
