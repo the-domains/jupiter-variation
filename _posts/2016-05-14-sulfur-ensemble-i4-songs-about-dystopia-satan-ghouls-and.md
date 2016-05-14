@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Sülfür Ensemble - I(4 Songs About Dystopia, Satan, Ghouls & Marilyn Monroe) 2016'
-datePublished: '2016-05-14T22:02:55.199Z'
-dateModified: '2016-05-14T22:02:51.984Z'
+datePublished: '2016-05-14T22:13:42.183Z'
+dateModified: '2016-05-14T22:10:16.492Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-14-sulfur-ensemble-i4-songs-about-dystopia-satan-ghouls-and.md
@@ -22,13 +22,11 @@ _type: Article
 
 ---
 **_Sülfür Ensemble - I_****_(4 Songs About Dystopia, Satan, Ghouls & Marilyn Monroe) 2016_**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6e34f16-61a5-4fcc-adc0-ca7695a8995b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9adba30a-ab6e-4152-bb98-46446a54f7cf.jpg)
 
 ****
 
-<iframe src="http://bandcamp.com/EmbeddedPlayer/album=1998382992/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" style=""></iframe>
-
-**Sülfür Ensemble** are 4 piece coming from Istanbul Turkey (the cursed land as they proclaim) and they play fuzzy Doom 'n Roll. **I (4 Songs About Dystopia, Satan, Ghouls & Marilyn Monroe)** is their first output (for the moment available only in digital platforms like **Bandcamp **and **Soundcloud** even though plans exist for a physical release in the future). The title of the E.P. is absolutely explanatory about the content of the songs :
+**Sülfür Ensemble **are a 4 piece coming from Istanbul Turkey (the cursed land as they proclaim) and they play fuzzy Doom 'n Roll. **I (4 Songs About Dystopia, Satan, Ghouls & Marilyn Monroe)** is their first output (for the moment available only in digital platforms like **Bandcamp **and **Soundcloud** even though plans exist for a physical release in the future). The title of the E.P. is absolutely explanatory about the content of the songs :
 
 **Daily Hate **: E.P. opener is sooooo heavy. It starts slowly having a fuzzy guitar sound that would make **Tony Iommi** proud but just around 4:58 the song explodes. What a great start!
 
@@ -40,10 +38,10 @@ _type: Article
 
 Overall, **I** is a promising release which sets the standards high and "prepares" our appetite for a full album.
 
-http://sulfurensemble.bandcamp.com/
+**http://sulfurensemble.bandcamp.com/**
 
-https://soundcloud.com/sulfurensemble/
+**https://soundcloud.com/sulfurensemble/**
 
-https://www.facebook.com/sulfurensemble
+**https://www.facebook.com/sulfurensemble**
 
-https://twitter.com/sulfurensemble
+**https://twitter.com/sulfurensemble**
