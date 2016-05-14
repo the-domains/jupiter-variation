@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Sülfür Ensemble - I(4 Songs About Dystopia, Satan, Ghouls & Marilyn Monroe) 2016'
-datePublished: '2016-05-14T22:13:42.183Z'
-dateModified: '2016-05-14T22:10:16.492Z'
+description: 'Sülfür Ensemble - I (4 Songs About Dystopia, Satan, Ghouls & Marilyn Monroe) 2016'
+datePublished: '2016-05-14T22:26:30.761Z'
+dateModified: '2016-05-14T22:26:29.106Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-14-sulfur-ensemble-i4-songs-about-dystopia-satan-ghouls-and.md
@@ -21,7 +21,7 @@ url: sulfur-ensemble-i4-songs-about-dystopia-satan-ghouls-and/index.html
 _type: Article
 
 ---
-**_Sülfür Ensemble - I_****_(4 Songs About Dystopia, Satan, Ghouls & Marilyn Monroe) 2016_**
+**_Sülfür Ensemble - I _****_(4 Songs About Dystopia, Satan, Ghouls & Marilyn Monroe) 2016_**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9adba30a-ab6e-4152-bb98-46446a54f7cf.jpg)
 
 ****
