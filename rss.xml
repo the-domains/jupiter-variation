@@ -4,8 +4,15 @@
         <description><![CDATA[Jupiter Variation]]></description>
         <link>https://thegrid.ai/jupiter-variation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 13:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 20:22:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jupiter-variation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e75cc6c-c69d-4b55-95e7-a58dc03b1c20.jpg">]]></description>
+            <link>https://thegrid.ai/jupiter-variation/sthenoworld-downfall-split-7-inch-ep-2016/index.html</link>
+            <guid isPermaLink="false">1cdb9c85-a976-42ff-97f7-0fe2a7ece23f</guid>
+            <pubDate>Wed, 15 Jun 2016 20:22:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eba6a0f5-4645-489f-a725-fd4297eb3384.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/jupiter-variation/jagernaut-split-with-agamemnon-project-2016/index.html</link>
             <guid isPermaLink="false">91a41c91-d3a2-4bdb-b4ab-10490b2d282e</guid>
             <pubDate>Sun, 15 May 2016 18:20:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9adba30a-ab6e-4152-bb98-46446a54f7cf.jpg">]]></description>
-            <link>https://thegrid.ai/jupiter-variation/sulfur-ensemble-i4-songs-about-dystopia-satan-ghouls-and/index.html</link>
-            <guid isPermaLink="false">c5cad1e6-79e5-4b42-bf9b-f5b5cba9d80a</guid>
-            <pubDate>Sat, 14 May 2016 22:26:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
