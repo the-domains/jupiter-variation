@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Master's Hammer - Formulae (2016)
-datePublished: '2016-07-03T17:45:25.386Z'
-dateModified: '2016-07-03T17:45:17.003Z'
+datePublished: '2016-07-03T21:44:11.063Z'
+dateModified: '2016-07-03T21:44:02.252Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-03-masters-hammer-formulae-2016.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-03-masters-hammer-formulae-2016.md
 url: masters-hammer-formulae-2016/index.html
 _type: Article
 
