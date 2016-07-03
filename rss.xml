@@ -4,8 +4,15 @@
         <description><![CDATA[Jupiter Variation]]></description>
         <link>https://thegrid.ai/jupiter-variation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 20:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2016 17:45:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jupiter-variation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Master's Hammer - Formulae (2016)</p>]]></description>
+            <link>https://thegrid.ai/jupiter-variation/masters-hammer-formulae-2016/index.html</link>
+            <guid isPermaLink="false">d37a71e5-3321-486d-886e-4627bd7ac73a</guid>
+            <pubDate>Sun, 03 Jul 2016 17:45:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e75cc6c-c69d-4b55-95e7-a58dc03b1c20.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/jupiter-variation/act-up-trio-act-up-2013/index.html</link>
             <guid isPermaLink="false">49450285-c667-4793-8690-b2c93e0a5828</guid>
             <pubDate>Wed, 18 May 2016 19:54:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc5ae578-e27d-4bf1-b430-65c564242535.jpg">]]></description>
-            <link>https://thegrid.ai/jupiter-variation/jagernaut-split-with-agamemnon-project-2016/index.html</link>
-            <guid isPermaLink="false">91a41c91-d3a2-4bdb-b4ab-10490b2d282e</guid>
-            <pubDate>Sun, 15 May 2016 18:20:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
