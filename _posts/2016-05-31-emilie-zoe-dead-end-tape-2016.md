@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Emilie Zoé - Dead-End Tape (2016)
-datePublished: '2016-05-31T18:28:14.757Z'
-dateModified: '2016-05-31T18:28:05.973Z'
+datePublished: '2016-07-03T21:42:41.092Z'
+dateModified: '2016-07-03T21:42:36.517Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-31-emilie-zoe-dead-end-tape-2016.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-31-emilie-zoe-dead-end-tape-2016.md
 url: emilie-zoe-dead-end-tape-2016/index.html
 _type: Article
 
