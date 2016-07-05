@@ -4,8 +4,15 @@
         <description><![CDATA[Jupiter Variation]]></description>
         <link>https://thegrid.ai/jupiter-variation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jul 2016 18:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2016 18:22:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jupiter-variation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Test </p>]]></description>
+            <link>https://thegrid.ai/jupiter-variation/test/index.html</link>
+            <guid isPermaLink="false">104a6824-f097-4fb5-9fd7-c5b8d11214a9</guid>
+            <pubDate>Tue, 05 Jul 2016 18:22:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Emilie Zoé - Dead-End Tape (2016)</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/jupiter-variation/natvres-wrath-2016/index.html</link>
             <guid isPermaLink="false">8990182f-8b2e-4653-bf9d-11789de17191</guid>
             <pubDate>Fri, 20 May 2016 19:01:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Act Up Trio - Act Up (2013)</p>]]></description>
-            <link>https://thegrid.ai/jupiter-variation/act-up-trio-act-up-2013/index.html</link>
-            <guid isPermaLink="false">49450285-c667-4793-8690-b2c93e0a5828</guid>
-            <pubDate>Wed, 18 May 2016 19:54:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
