@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Nine Inch Nails with David Bowie - Back In Anger (2016)
-datePublished: '2016-07-06T19:19:59.663Z'
-dateModified: '2016-07-06T19:19:49.988Z'
+datePublished: '2016-07-06T20:04:47.835Z'
+dateModified: '2016-07-06T20:04:42.037Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-06-nine-inch-nails-with-david-bowie-back-in-anger-2016.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-06-nine-inch-nails-with-david-bowie-back-in-anger-2016.md
 url: nine-inch-nails-with-david-bowie-back-in-anger-2016/index.html
 _type: Article
 
@@ -20,7 +20,7 @@ _type: Article
 **_Nine Inch Nails with David Bowie - Back In Anger (2016)_**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33df3c54-15ac-4d98-ba2c-24de6807c26e.jpg)
 
-Truth is that I am a big**Nine Inch Nails**fan and completist so I would purchase this CD even if it was the biggest rip-off, cash-in, scam or whatever else of all times. Well, goods news are that it is NOT. But let's take the things from the beginning.
+Truth is that I am a big**Nine Inch Nails **fan and completist so I would purchase this CD even if it was the biggest rip-off, cash-in, scam or whatever else of all times. Well, goods news are that it is NOT. But let's take the things from the beginning.
 
 Back in 1995,**David Bowie**had lost all his appetite for touring. Convinced by Sony to do some provisional shows for**Outside**, he decided to take a more radical approach in order to make his concerts more creatively challenging. He hired a new rhythm section, compiled a setlist which mostly consisted of songs not having been released yet (also leaving out his glam-era standards) and most importantly**Bowie**decided to choose as an opening act**Nine Inch Nails**who by that time were already considered the most popular "Industrial" band in US (remember this was just after**"The Downward Spiral"**with**"Closer"**on heavy rotation by MTV). That worked perfectly for both.**Bowie**found the way to keep his interest in performing live and**Reznor**took inspiration from a (then) 48 year**Bowie**who was refusing to settle in his past glory. The idea was unique, shows would start with**NIN**, there would be no**NIN**encore, then**Bowie**would join**NIN**on stage and finally**NIN**would depart leaving**Reznor**with**Bowie**and his band. Oh boy, wish I was there...
 
