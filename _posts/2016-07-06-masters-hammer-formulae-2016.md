@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Master's Hammer - Formulae (2016)
-datePublished: '2016-07-06T19:00:09.928Z'
-dateModified: '2016-07-06T19:00:04.923Z'
+datePublished: '2016-07-06T20:06:26.604Z'
+dateModified: '2016-07-06T20:06:20.572Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-06-masters-hammer-formulae-2016.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-06-masters-hammer-formulae-2016.md
 url: masters-hammer-formulae-2016/index.html
 _type: Article
 
@@ -20,7 +20,7 @@ _type: Article
 **_Master's Hammer - Formulae (2016)_**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/083f0b9e-42e4-4c7e-8848-9f9a53878b52.jpg)
 
-If there is one characterisation that can perfectly fit to bands like**Master's Hammer**is artistic integrity. Having built a cult name during the second wave of Black Metal era in the 90's with albums like**Ritual**(1991) or**Jilemnický Okultista**(1993), they decided to cease status after the disappointment (at least in its initial receptions) that**Šlágry**(1995) was. Emerging again in 2009 with (the great)**Mantras**they have since then followed their own, totally independent (they release their own material themselves) and in the same time honest way.**Master's Hammer**could have very easily attempted to offer a**Ritual**or a**Jilemnický Okultista****part 2**, having it released it through a major German heavy metal record company and have the 20 year olds who did not live the past eras praise them as vberkvlt...but they did not...instead, they decided to remain in obscurity, record and release their experimental material they way they want it and keep their artistic vision pure and unaffected.
+If there is one characterisation that can perfectly fit to bands like**Master's Hammer**is artistic integrity. Having built a cult name during the second wave of Black Metal era in the 90's with albums like **Ritual**(1991) or**Jilemnický Okultista**(1993), they decided to cease status after the disappointment (at least in its initial receptions) that**Šlágry**(1995) was. Emerging again in 2009 with (the great)**Mantras**they have since then followed their own, totally independent (they release their own material themselves) and in the same time honest way.**Master's Hammer**could have very easily attempted to offer a**Ritual**or a**Jilemnický Okultista****part 2**, having it released it through a major German heavy metal record company and have the 20 year olds who did not live the past eras praise them as vberkvlt...but they did not...instead, they decided to remain in obscurity, record and release their experimental material they way they want it and keep their artistic vision pure and unaffected.
 
 **Formulae**is their 4th full length after their reformation (**Mantras**in2009,**Vracejte konve na místo**in 2012,**Vagus Vetus**in2014 plus some split singles and demo rereleases in between) and my opinion is that in this album**Master's Hammer**have finally managed to perfect the formula for crafting their ritualistic mixture of Black Metal and Electronic music that was firstly attempted during**Šlágry**.
 
