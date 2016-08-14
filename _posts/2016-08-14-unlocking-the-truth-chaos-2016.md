@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Unlocking the Truth - Chaos (2016)
-datePublished: '2016-08-14T07:04:34.598Z'
-dateModified: '2016-08-14T07:04:25.246Z'
+datePublished: '2016-08-14T07:04:51.737Z'
+dateModified: '2016-08-14T07:04:49.126Z'
 title: ''
 author: []
 via: {}
@@ -19,7 +19,6 @@ _type: Article
 
 ---
 **_Unlocking the Truth - Chaos (2016)_**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de62c712-3378-4812-8e8f-476140936c16.jpg)
 
 **Unlocking the Truth** became a viral sensation in 2012, as the band of the three 11 year olds who used to perform live in Times Square.
 
