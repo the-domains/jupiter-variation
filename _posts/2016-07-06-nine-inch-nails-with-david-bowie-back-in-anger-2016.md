@@ -1,24 +1,25 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: Nine Inch Nails with David Bowie - Back In Anger (2016)
-datePublished: '2016-07-06T20:04:47.835Z'
-dateModified: '2016-07-06T20:04:42.037Z'
-title: ''
-author: []
+datePublished: '2016-08-20T15:55:16.401Z'
 sourcePath: _posts/2016-07-06-nine-inch-nails-with-david-bowie-back-in-anger-2016.md
+inFeed: true
 authors: []
-publisher: null
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-20T15:55:15.958Z'
+title: ''
+publisher: {}
+description: Nine Inch Nails with David Bowie - Back In Anger (2016)
+inLanguage: null
+inNav: false
+via: {}
 starred: false
 url: nine-inch-nails-with-david-bowie-back-in-anger-2016/index.html
 _type: Article
 
 ---
-**_Nine Inch Nails with David Bowie - Back In Anger (2016)_**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33df3c54-15ac-4d98-ba2c-24de6807c26e.jpg)
+_**Nine Inch Nails with David Bowie - Back In Anger (2016)**_
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a9ee96d293c0aa850ede7d5306523bd9/croprotate.jpg?cropheight=569&cropwidth=600&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F33df3c54-15ac-4d98-ba2c-24de6807c26e.jpg&x=0&y=15)
 
 Truth is that I am a big**Nine Inch Nails **fan and completist so I would purchase this CD even if it was the biggest rip-off, cash-in, scam or whatever else of all times. Well, goods news are that it is NOT. But let's take the things from the beginning.
 
