@@ -1,24 +1,24 @@
 ---
+datePublished: '2016-08-20T15:54:54.682Z'
+sourcePath: _posts/2016-08-14-unlocking-the-truth-chaos-2016.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: Unlocking the Truth - Chaos (2016)
-datePublished: '2016-08-20T15:54:40.812Z'
-dateModified: '2016-08-20T15:54:25.477Z'
-title: ''
 author: []
 via: {}
-sourcePath: _posts/2016-08-14-unlocking-the-truth-chaos-2016.md
-authors: []
+dateModified: '2016-08-20T15:54:54.257Z'
+title: ''
 publisher: {}
+description: Unlocking the Truth - Chaos (2016)
+inLanguage: null
+inNav: false
 starred: false
 url: unlocking-the-truth-chaos-2016/index.html
 _type: Article
 
 ---
-**_Unlocking the Truth - Chaos (2016)_**
+_**Unlocking the Truth - Chaos (2016)**_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35b1b234-8c64-44b0-baed-ec2332de572a.jpg)
 
 **Unlocking the Truth **became an internet sensation in 2012, as the band of three 11 year olds who used to perform live in Times Square. Gaining quickly a viral status - granting them access to big television networks like NBC, ABC, CNN, Comedy Central, Fuse, appearance slots in big festivals like Coachella (becoming the youngest group ever to perform there), SxSW, Vans Warped Tour and support gigs to Guns 'n Roses, Mötörhead, Marilyn Manson, Queens of the Stone Age among others - they signed a $1.8 Million deal with Sony Music Entertainment out of which they successfully managed to negotiate their exit in 2015\. After all the ups and downs they have finally managed to release their first full album **Chaos **in July 2016 and the first immediate question that comes to mind, is the obvious one : Does it really stand up to the hype ?
