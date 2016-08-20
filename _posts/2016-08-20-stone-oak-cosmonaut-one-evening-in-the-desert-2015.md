@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-20T17:25:50.183Z'
+datePublished: '2016-08-20T17:27:55.378Z'
 sourcePath: _posts/2016-08-20-stone-oak-cosmonaut-one-evening-in-the-desert-2015.md
 author: []
 via: {}
-dateModified: '2016-08-20T17:25:49.796Z'
+dateModified: '2016-08-20T17:27:55.286Z'
 title: ''
 publisher: {}
 description: Stone Oak Cosmonaut - One Evening in the Desert (2015)
