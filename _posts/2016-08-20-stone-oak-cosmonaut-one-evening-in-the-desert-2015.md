@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-08-20T17:32:34.910Z'
+datePublished: '2016-08-20T17:40:27.432Z'
 sourcePath: _posts/2016-08-20-stone-oak-cosmonaut-one-evening-in-the-desert-2015.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-20T17:32:34.366Z'
+dateModified: '2016-08-20T17:40:26.111Z'
 title: ''
 publisher: {}
 description: Stone Oak Cosmonaut - One Evening in the Desert (2015)
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: stone-oak-cosmonaut-one-evening-in-the-desert-2015/index.html
+_type: Blurb
 
 ---
 _**Stone Oak Cosmonaut - One Evening in the Desert (2015)**_
