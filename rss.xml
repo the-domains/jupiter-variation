@@ -4,8 +4,15 @@
         <description><![CDATA[Jupiter Variation]]></description>
         <link>https://thegrid.ai/jupiter-variation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 15:50:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 15:51:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jupiter-variation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc5ae578-e27d-4bf1-b430-65c564242535.jpg">]]></description>
+            <link>https://thegrid.ai/jupiter-variation/jagernaut-split-with-agamemnon-project-2016/index.html</link>
+            <guid isPermaLink="false">91a41c91-d3a2-4bdb-b4ab-10490b2d282e</guid>
+            <pubDate>Sat, 20 Aug 2016 15:51:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c25a556-38f8-4e7b-9aab-636552d88b15.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/jupiter-variation/sthenoworld-downfall-split-7-inch-ep-2016/index.html</link>
             <guid isPermaLink="false">1cdb9c85-a976-42ff-97f7-0fe2a7ece23f</guid>
             <pubDate>Wed, 15 Jun 2016 20:22:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eba6a0f5-4645-489f-a725-fd4297eb3384.jpg">]]></description>
-            <link>https://thegrid.ai/jupiter-variation/sumac-what-one-becomes-2016/index.html</link>
-            <guid isPermaLink="false">92f960ed-9f54-417a-ae82-1e15b85ceb14</guid>
-            <pubDate>Sat, 11 Jun 2016 13:04:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
