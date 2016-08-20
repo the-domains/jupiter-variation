@@ -4,8 +4,15 @@
         <description><![CDATA[Jupiter Variation]]></description>
         <link>https://thegrid.ai/jupiter-variation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 15:51:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 15:51:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jupiter-variation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4369511deaa0792be83c28a8d8c99a9c538cd86d.jpg">]]></description>
+            <link>https://thegrid.ai/jupiter-variation/sulfur-ensemble-i4-songs-about-dystopia-satan-ghouls-and/index.html</link>
+            <guid isPermaLink="false">c5cad1e6-79e5-4b42-bf9b-f5b5cba9d80a</guid>
+            <pubDate>Sat, 20 Aug 2016 15:51:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc5ae578-e27d-4bf1-b430-65c564242535.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/jupiter-variation/koneskin-liberty-place-2015/index.html</link>
             <guid isPermaLink="false">d7c38db0-8a07-4cf8-935b-9776a2ad0028</guid>
             <pubDate>Wed, 06 Jul 2016 19:08:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e75cc6c-c69d-4b55-95e7-a58dc03b1c20.jpg">]]></description>
-            <link>https://thegrid.ai/jupiter-variation/sthenoworld-downfall-split-7-inch-ep-2016/index.html</link>
-            <guid isPermaLink="false">1cdb9c85-a976-42ff-97f7-0fe2a7ece23f</guid>
-            <pubDate>Wed, 15 Jun 2016 20:22:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
