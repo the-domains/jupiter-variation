@@ -5,13 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Autokrator - The Obedience to Authority (2016)
-datePublished: '2016-07-08T08:45:16.804Z'
-dateModified: '2016-07-08T08:45:11.804Z'
+datePublished: '2016-08-20T15:54:32.709Z'
+dateModified: '2016-08-14T06:48:31.724Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-08-autokrator-the-obedience-to-authority-2016.md
 authors: []
-publisher: null
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+via: {}
 starred: false
 url: autokrator-the-obedience-to-authority-2016/index.html
 _type: Article
