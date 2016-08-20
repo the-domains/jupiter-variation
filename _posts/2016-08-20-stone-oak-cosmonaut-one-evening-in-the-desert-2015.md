@@ -1,13 +1,13 @@
 ---
-description: Stone Oak Cosmonaut - One Evening in the Desert (2015)
-dateModified: '2016-08-20T17:22:46.597Z'
-datePublished: '2016-08-20T17:23:55.624Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-20T17:25:50.183Z'
 sourcePath: _posts/2016-08-20-stone-oak-cosmonaut-one-evening-in-the-desert-2015.md
+author: []
+via: {}
+dateModified: '2016-08-20T17:25:49.796Z'
+title: ''
+publisher: {}
+description: Stone Oak Cosmonaut - One Evening in the Desert (2015)
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -31,4 +31,4 @@ https://www.facebook.com/StoneOakCosmonaut/
 
 Purchase the album from here :
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c3846d84c7937552a107689c97df7524f218709.png" /><h1>CLEAR SPOT</h1><p>World wide distribution of CDs, vinyl, DVDs, books, magazines etc. A vast catalogue of titles, brand new releases as well as older ones, and loads of reissues. Psychedelia, rock, surf, punk, folk, progressive and much more.</p></article>
+http://www.clearspot.nl/catalog/search.php?q=stone+oak+cosmonaut&s=w&submit=search
