@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Zatokrev - Silk Spiders Underwater... (2015)
-datePublished: '2016-07-06T19:13:35.190Z'
-dateModified: '2016-07-06T19:13:31.168Z'
+datePublished: '2016-08-20T15:44:37.123Z'
+dateModified: '2016-07-06T19:15:01.349Z'
 title: ''
 author: []
 authors: []
 publisher: null
-starred: false
 sourcePath: _posts/2016-07-06-zatokrev-silk-spiders-underwater-2015.md
+starred: false
 url: zatokrev-silk-spiders-underwater-2015/index.html
 _type: Article
 
@@ -54,3 +54,4 @@ https://twitter.com/zatokrev
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b26f0de-5dc4-4e23-93ae-127e18f5e2ae.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff80267e-5901-4b8d-81d0-5cc2f6eb344e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9edd464-27fe-4502-8444-33670bc89ded.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13d00f51-df70-4685-bda1-e84345be8870.jpg)
