@@ -4,8 +4,15 @@
         <description><![CDATA[Jupiter Variation]]></description>
         <link>https://thegrid.ai/jupiter-variation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 15:56:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 15:57:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jupiter-variation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcd49efa-488e-47ab-bed5-cf28c69e9bbb.jpg">]]></description>
+            <link>https://thegrid.ai/jupiter-variation/ringworm-brain-tentacles-split-2016/index.html</link>
+            <guid isPermaLink="false">75de0067-6ab3-4cb3-acc7-53f1c3617d17</guid>
+            <pubDate>Sat, 20 Aug 2016 15:57:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eba6a0f5-4645-489f-a725-fd4297eb3384.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/jupiter-variation/sulfur-ensemble-i4-songs-about-dystopia-satan-ghouls-and/index.html</link>
             <guid isPermaLink="false">c5cad1e6-79e5-4b42-bf9b-f5b5cba9d80a</guid>
             <pubDate>Sat, 20 Aug 2016 15:51:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc5ae578-e27d-4bf1-b430-65c564242535.jpg">]]></description>
-            <link>https://thegrid.ai/jupiter-variation/jagernaut-split-with-agamemnon-project-2016/index.html</link>
-            <guid isPermaLink="false">91a41c91-d3a2-4bdb-b4ab-10490b2d282e</guid>
-            <pubDate>Sat, 20 Aug 2016 15:51:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
