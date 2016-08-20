@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T15:44:51.224Z'
+datePublished: '2016-08-20T15:50:53.101Z'
 sourcePath: _posts/2016-07-06-zatokrev-silk-spiders-underwater-2015.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-20T15:44:50.740Z'
+dateModified: '2016-08-20T15:50:52.648Z'
 title: ''
 publisher: {}
 description: Zatokrev - Silk Spiders Underwater... (2015)
@@ -48,7 +48,3 @@ https://soundcloud.com/zatokrev
 Twitter:
 
 https://twitter.com/zatokrev
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b26f0de-5dc4-4e23-93ae-127e18f5e2ae.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff80267e-5901-4b8d-81d0-5cc2f6eb344e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9edd464-27fe-4502-8444-33670bc89ded.jpg)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7023161e2aed78a1d02fc42fc480486e/croprotate.jpg?cropheight=5184&cropwidth=2445&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F13d00f51-df70-4685-bda1-e84345be8870.jpg&x=0&y=0)
