@@ -28,6 +28,7 @@ cta:
 favicon: null
 title: A Music Blog...
 content: []
+description: My life is full of Music...here I write about it...
 purpose:
   - type: contact
     url: 'mailto:jupitervariations@gmail.com'
