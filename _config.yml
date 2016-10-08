@@ -1,20 +1,21 @@
-typography_spectrum: 0.8707970548421144
+typography_spectrum: 0.1066051502712071
 color:
   brandColors:
-    - '#1f1f1f'
-    - '#9d9d9d'
-    - '#4e4e4e'
-    - '#7c7c7c'
-    - '#ffffff'
-  brandStrength: 1
-  lightness: 0.5006237651687115
-  saturation: 1
-  rhythmicContrast: 0.011391788488253951
+    - '#2E2E2E'
+    - '#BABABA'
+    - '#494949'
+    - '#909090'
+    - '#D5D5D5'
+  brandStrength: 0.16609516041353345
+  lightness: 0.6666366343852133
+  saturation: 0.3120559202507138
+  rhythmicContrast: 0.30492869415320456
+github: true
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0
+layout_spectrum: 0.7485863149631768
 analytics:
   google: null
   facebook: null
@@ -25,5 +26,9 @@ cta:
   bucket: null
   version: null
 favicon: null
-title: ''
-purpose: []
+title: A Music Blog...
+content: []
+purpose:
+  - type: contact
+    url: 'mailto:jupitervariations@gmail.com'
+    label: Contact me
