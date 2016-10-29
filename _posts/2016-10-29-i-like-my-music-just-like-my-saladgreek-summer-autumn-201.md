@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-10-29T06:40:58.959Z'
+datePublished: '2016-10-29T06:50:01.235Z'
+sourcePath: _posts/2016-10-29-i-like-my-music-just-like-my-saladgreek-summer-autumn-201.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-29T06:40:43.967Z'
+dateModified: '2016-10-29T06:50:00.552Z'
 title: 'I like my music, just like my salad…Greek (Summer-Autumn 2016 Version)'
 publisher: {}
 description: >-
@@ -12,7 +13,6 @@ description: >-
   releases that came into my hands during this summer-autumn. Enjoy and support
   your local scene, wherever you are…
 starred: false
-sourcePath: _posts/2016-10-29-i-like-my-music-just-like-my-saladgreek-summer-autumn-201.md
 url: i-like-my-music-just-like-my-saladgreek-summer-autumn-201/index.html
 _type: Article
 
@@ -30,7 +30,7 @@ www.facebook.com/sarabante/
 
 www.sarabante.bandcamp.com/
 
-**Foray Between Oceans - Depression Neverending**
+**Foray Between Ocean - Depression Neverending**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f27bfb6c-be37-4ae0-a6f4-52eadf74a409.jpg)
 
 Well, I have to say that this one came out of nowhere and struck me in the head. The members of **Foray Between Ocean** come from several prominent Greek bands (**Trendy Hooligans**, **Sorrowful Angels**, **Outloud**, **Sunburst**) and in their debut they present one of the most insanely technical Metalcore albums I have ever heard. Having the advantage of a HUGE production (which eventually helps them present their musicianship skills to the full extend) the 11 songs of **Depression Neverending** are characterised by great riffs, catchy melodies, atmospheric keyboards and some of the greatest drumming that has ever been recorded in a Greek metal album. **Foray Between Ocean** manage to create a fusion from a variety of metal sub-genres (from High Speed Black Metal, Atmospheric Death, Swedish influenced NWOAHM, Clean Vocals Metal Core) but in a way that the final result is neither a joke nor an insult. **Depression Neverending** may not be inventing the wheel but it is one of the most enjoyable records I have ever purchased. Spend your money without any concern.
