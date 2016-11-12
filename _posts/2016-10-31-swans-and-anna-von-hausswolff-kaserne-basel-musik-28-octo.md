@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-10-31T19:20:40.260Z'
+datePublished: '2016-11-12T17:22:35.955Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-31T19:20:34.587Z'
+dateModified: '2016-11-12T17:22:35.643Z'
 title: 'Swans & Anna von Hausswolff - Kaserne Basel *Musik*, 28 October 2016'
 publisher: {}
 description: >-
