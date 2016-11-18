@@ -1,30 +1,23 @@
 ---
-datePublished: '2016-08-20T15:51:29.976Z'
+datePublished: '2016-11-18T05:09:15.814Z'
 sourcePath: _posts/2016-05-14-sulfur-ensemble-i4-songs-about-dystopia-satan-ghouls-and.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-08-20T15:51:29.288Z'
-title: ''
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-description: >-
-  Sülfür Ensemble - I (4 Songs About Dystopia, Satan, Ghouls & Marilyn Monroe)
-  2016
-inLanguage: null
-inNav: false
 via: {}
+dateModified: '2016-11-18T05:09:14.999Z'
+title: ''
+publisher: {}
+description: 'Sülfür Ensemble '
+inLanguage: null
 starred: false
 url: sulfur-ensemble-i4-songs-about-dystopia-satan-ghouls-and/index.html
 _type: Article
 
 ---
-_**Sülfür Ensemble - I (4 Songs About Dystopia, Satan, Ghouls & Marilyn Monroe) 2016**_
+_**Sülfür Ensemble **_
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4369511deaa0792be83c28a8d8c99a9c538cd86d.jpg)
 
 **Sülfür Ensemble **are a 4 piece coming from Istanbul Turkey (the cursed land as they proclaim) and they play fuzzy Doom 'n Roll. **I (4 Songs About Dystopia, Satan, Ghouls & Marilyn Monroe)** is their first output (for the moment available only in digital platforms like **Bandcamp **and **Soundcloud** even though plans exist for a physical release in the future). The title of the E.P. is absolutely explanatory about the content of the songs :
